@@ -21,3 +21,6 @@
 
 ![image](https://github.com/Quynh-2302/React-basic/assets/85424168/33087110-44f6-451a-bc31-20aa0967cd2d)
 
+## Binding Event Handlers
+
+
