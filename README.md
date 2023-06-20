@@ -5,15 +5,8 @@
 * Code has to be executed after the state has been updated? Place that code in the call back function which is the second argument to the setState method.
 * When you have to update state based on the previous state value, pass in a function as an argument instead of the regular object.
 
-1. SetState
-2. Another item
-  * Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-  1. Ordered sub-list
-4. And another item.  
-   
-   Some text that should be aligned with the above item.
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+2. Destructuring props and state
+a, Destructuring props
+![image](https://github.com/Quynh-2302/React-basic/assets/85424168/d2467c6e-8ca6-40fb-8219-f26a3317003e)
+a, Destructuring state
+![image](https://github.com/Quynh-2302/React-basic/assets/85424168/c3d88458-4a91-4f15-8b90-80d316c573a6)
