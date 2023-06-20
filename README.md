@@ -29,5 +29,11 @@
 
 ![image](https://github.com/Quynh-2302/React-basic/assets/85424168/a6eec40a-e91a-46fa-9d6c-7354b97bc17d)
 
+## Index as key
+When to use index as a key?
+1. The items in your list do not have a unique id.
+2. The list is a static list and will not change.
+3. The list will never be reordered or filtered.
+
 
 
