@@ -35,5 +35,9 @@ When to use index as a key?
 2. The list is a static list and will not change.
 3. The list will never be reordered or filtered.
 
+###Controlled Components
+
+![image](https://github.com/Quynh-2302/React-basic/assets/85424168/64b7ceab-14a8-49e2-a46f-ce64e4e8f7ec)
+
 
 
